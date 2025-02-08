@@ -43,7 +43,7 @@
 2. **Navigate to the Repository Directory:**
 
    ```bash
-   cd velos-ai
+   cd VELOS-AI
    ```
 
 3. **Ensure Node.js is Installed:**  
