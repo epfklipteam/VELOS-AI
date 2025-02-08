@@ -38,7 +38,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/velos-ai.git
+   git clone https://github.com/epfklipteam/VELOS-AI.git```
 
 2. **Navigate to the Repository Directory:**
 
